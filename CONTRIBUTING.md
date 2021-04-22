@@ -15,4 +15,4 @@ Keep it simple:
 2. Create your development branch from your issue you have created.
 3. Develop it.
 4. Create a pull request.
-5. After the reviewer review and accept your pull request, merge it to master.
+5. After the reviewer review and accept your pull request, merge it to `main`.
