@@ -53,7 +53,7 @@ Follow the installation process from this [post](https://www.itzgeek.com/post/ho
 ### Virtual Machine (Oracle VirtualBox)
 Follow the installation process from this [post](https://www.lifewire.com/install-ubuntu-linux-windows-10-steps-2202108) but please read some notes below before begin the installation process.
 - Please remember that since it uses virtualization, it might not performed as good as the one that directly installed to the machine.
-- This supposed to be worked on VirtualBox for Mac but please do your own research since new MacBooks using Apple silicon and the new OS is made to optimize the potential of this silicon.
+- This supposed to be worked on VirtualBox for Mac but please do your own research since new MacBooks using Apple silicon and the new macOS is made to optimize the potential of this silicon.
 
 ## References
 1. ["What is Ubuntu?"](https://help.ubuntu.com/lts/installation-guide/s390x/ch01s01.html). *Official Ubuntu Documentation*. Retrieved 24 April 2021.
