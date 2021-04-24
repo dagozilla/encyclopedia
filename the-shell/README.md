@@ -41,7 +41,7 @@ hello
 - Your device probably shipped with one installed, or you can install one fairly easily.
 
 ## Course
-The shell course from [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/course-shell/) (a class from MIT) provide a good explanation about the usage of the shell and provides some exercises for it.
+The shell course from [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/2020/course-shell/) (a class from **MIT**) provides good explanations about the usage of the shell and some exercises for it.
 
 ## References
 1. ["Course overview + the shell"](https://missing.csail.mit.edu/2020/course-shell/). *The Missing Semester of Your CS Education*. Retrieved 24 April 2021.
