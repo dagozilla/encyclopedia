@@ -29,4 +29,4 @@
 
 ## References
 1. ["What is version control?"](https://www.atlassian.com/git/tutorials/what-is-version-control). *Atlassian Git Tutorial*. Retrieved 25 April 2021.
-1. ["Version Control (Git)"](https://missing.csail.mit.edu/2020/version-control/). *The Missing Semester of Your CS Education*. Retrieved 25 April 2021.
+2. ["Version Control (Git)"](https://missing.csail.mit.edu/2020/version-control/). *The Missing Semester of Your CS Education*. Retrieved 25 April 2021.
