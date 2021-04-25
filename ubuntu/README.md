@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [About Ubuntu](#about-ubuntu)
-  - [What is GNU/Linux?](#what-is-gnu%2Flinux)
+  - [What is GNU/Linux?](#what-is-gnulinux)
   - [What is Debian?](#what-is-debian)
   - [What is Ubuntu?](#what-is-ubuntu)
   - [What is the relationship between Unix, Linux, Debian, and Ubuntu?](#what-is-the-relationship-between-unix-linux-debian-and-ubuntu)
