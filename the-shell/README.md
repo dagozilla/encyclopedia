@@ -20,8 +20,8 @@ hello
 ```
 ## Table of Contents
 - [Background](#background)
-- [What is the shell?](#what-is-the-shell?)
-- [What is a terminal](#what-is-a-terminal?)
+- [What is the shell?](#what-is-the-shell)
+- [What is a terminal?](#what-is-a-terminal)
 - [Course](#course)
 - [References](#references)
 
