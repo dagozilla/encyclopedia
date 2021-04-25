@@ -1,7 +1,7 @@
 # Markdown
 
 ## Table of Contents
-- [What is Markup Language?](#what-is-a-markup-language?)
+- [What is a Markup Language?](#what-is-a-markup-language?)
 - [What is Markdown?](#what-is-markdown?)
 - [Why Use Markdown](#why-use-markdown?)
 - [Getting Started](#getting-started)
