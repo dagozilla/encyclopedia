@@ -11,3 +11,4 @@
 8. Loops (soon)
 9. Control Flow (soon)
 10. [Pointers](10_pointers.md)
+11. [References](11_references.md)
