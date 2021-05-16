@@ -40,15 +40,6 @@ But, you can't create an empty reference. A reference always has to be initializ
 
 int main() {
     int& ref;   // compile error
-
-    int foo = 9;
-    int bar = 10;
-    int& ref = foo;
-    ref = bar;
-
-    LOG(ref);
-    LOG(foo);
-    LOG(bar);
 }
 ```
 
