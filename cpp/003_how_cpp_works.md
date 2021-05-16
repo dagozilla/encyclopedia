@@ -22,7 +22,7 @@ Preprocessing -> Compiling -> Linking
 - **Linking**: Link the `object files` to become an `executable binary file`.
 
 ## Preprocessing
-In preprocessing, the source codes will be translated into the translation units that will be compiled later. Let's write some codes to understand how the preprocessing works.
+In preprocessing, the `source codes` will be translated into `translation units` that will be compiled later. Let's write some codes to understand how the preprocessing works.
 
 Create a new file named `math.hpp` (we'll talk more about the header files later) and implement the addition math function in it.
 
@@ -103,7 +103,7 @@ int main() {
 ```
 
 ## Compiling
-In compiling, the translation units will be compiled to become the object files that will be linked later. Let's write some codes to understand how the compilation works.
+In compiling, the `translation units` will be compiled to become `object files` that will be linked later. Let's write some codes to understand how the compilation works.
 
 Rewrite our `main.cpp` to be like this. This time, we use `std::cout` from `iostream` library to print the result of `add(1, 2)` then print a new line (`std::endl`) to the console. Remove the `#include "math.hpp"` statement to simulate the compile error. Also, add `int add(int a, int b);` to the file.
 
@@ -119,7 +119,7 @@ int main() {
 }
 ```
 
-If we compile the above `main.cpp` to the executable binary file, it will be failed because even though the compiler know the `add` function exists, the compiler doesn't know the implementation of the `add` function. But if we generate only the object files, it will be compiled successfully.
+If we compile the above `main.cpp` to an executable binary file, it will be failed because even though the compiler know the `add` function exists, the compiler doesn't know the implementation of the `add` function. But if we generate only the object files, it will be compiled successfully.
 
 To demonstrate it, let's generate the object file with `-c` option to output an object file instead of an executable binary file and save the output to a file named `main.o` with `-o` option. As you can see, the `main.o` file generated successfully without any error.
 
