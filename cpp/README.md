@@ -12,3 +12,5 @@
 9. Control Flow (soon)
 10. [Pointers](010_pointers.md)
 11. [References](011_references.md)
+12. [Class](012_class.md)
+13. [Abstraction](013_abstraction.md)
