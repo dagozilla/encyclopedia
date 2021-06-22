@@ -36,3 +36,6 @@ catkin_package(
 <buildtool_depend>gazebo_ros</buildtool_depend>
 <exec_depend>gazebo_ros</exec_depend>
 ```
+
+## References
+1. ["Gazebo: Tutorial: ROS overview"](http://gazebosim.org/tutorials?tut=ros_overview&cat=connect_ros). *gazbosim.org*. Retrieved 22 June 2021

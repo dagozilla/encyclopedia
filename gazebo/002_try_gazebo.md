@@ -51,3 +51,7 @@ export GAZEBO_PLUGIN_PATH=$HOME/gazebo_tutorial/build:$GAZEBO_PLUGIN_PATH
 gazebo ~/gazebo_tutorial/worlds/model_push.world
 ```
 You will see that the box model is moving.
+
+## References
+1. ["Gazebo: Tutorial: Make a Mobile Robot"](http://gazebosim.org/tutorials?tut=build_robot&cat=build_robot). *gazbosim.org*. Retrieved 22 June 2021
+2. ["Gazebo: Tutorial: Model plugins"](http://gazebosim.org/tutorials?tut=plugins_model&cat=write_plugin). *gazbosim.org*. Retrieved 22 June 2021
